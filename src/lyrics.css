@@ -1,0 +1,10 @@
+.lyrics-container {
+  height: 50vh;
+  width: 40vw;
+  margin: 0 auto;
+  white-space: pre-wrap;
+  overflow-y: auto;
+}
+::-webkit-scrollbar {
+  width: 0px; /* Remove scrollbar space */
+}
