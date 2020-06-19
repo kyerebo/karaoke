@@ -1,13 +1,21 @@
 import React from "react";
 import Button from "@material-ui/core/Button";
 
-const uploadMusic = ({ handleMusicUpload }) => {
+const uploadMusic = ({ handleMusicUpload, isPlaying }) => {
   const onFileChange = (e) => {
-    handleMusicUpload(e.target.files[0]);
+    if (e.target.files[0] !== undefined) {
+      handleMusicUpload(e.target.files[0]);
+    }
   };
   return (
-    <Button variant="contained" color="primary" component="label">
-      Upload MP3 or WAV
+    <Button
+      style={{ margin: "0 5px" }}
+      variant="contained"
+      color="primary"
+      component="label"
+      disabled={isPlaying}
+    >
+      Upload MP3/WAV
       <input
         type="file"
         accept=".mp3,.wav"
