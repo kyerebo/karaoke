@@ -1,0 +1,10 @@
+.lyrics-text {
+  height: 60vh;
+  width: 40vw;
+  resize: none;
+  display: block;
+}
+
+.edit-container {
+  display: inline;
+}
