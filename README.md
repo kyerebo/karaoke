@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Description
 
-![Image of Application](https://i.ibb.co/mzL99BJ/karaoke.png)
+![Image of Application](https://i.ibb.co/mzL99BJ/karaoke.png)<br/>
 Web application for syncing .lrc lyric files to music files for at-home karaoke.
 Example mp3/lrc files for use with application: https://rb.gy/ynuix1
 
