@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/karaoke/precache-manifest.3f2685b840c91b2ba0008dc1d1efb7a0.js"
+  "/karaoke/precache-manifest.2656f123e0746285336a7663d7f778d0.js"
 );
 
 self.addEventListener('message', (event) => {

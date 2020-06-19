@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "717dff5c6dadb39bd37f953a8983024f",
+    "revision": "387e89bb7ccd5128bb6cb8cf3aafdf92",
     "url": "/karaoke/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/karaoke/static/css/2.c228d923.chunk.css"
   },
   {
-    "revision": "f5924b4a7d040f0db548",
+    "revision": "dbb640de2822aab17ff0",
     "url": "/karaoke/static/css/main.69fd113e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/karaoke/static/js/2.8f80785e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f5924b4a7d040f0db548",
-    "url": "/karaoke/static/js/main.34847378.chunk.js"
+    "revision": "dbb640de2822aab17ff0",
+    "url": "/karaoke/static/js/main.90f85bb4.chunk.js"
   },
   {
     "revision": "10aa2ec7d822be6f87ba",
