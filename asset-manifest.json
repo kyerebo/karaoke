@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/karaoke/static/css/main.69fd113e.chunk.css",
+    "main.js": "/karaoke/static/js/main.34847378.chunk.js",
+    "main.js.map": "/karaoke/static/js/main.34847378.chunk.js.map",
+    "runtime-main.js": "/karaoke/static/js/runtime-main.83250247.js",
+    "runtime-main.js.map": "/karaoke/static/js/runtime-main.83250247.js.map",
+    "static/css/2.c228d923.chunk.css": "/karaoke/static/css/2.c228d923.chunk.css",
+    "static/js/2.8f80785e.chunk.js": "/karaoke/static/js/2.8f80785e.chunk.js",
+    "static/js/2.8f80785e.chunk.js.map": "/karaoke/static/js/2.8f80785e.chunk.js.map",
+    "index.html": "/karaoke/index.html",
+    "precache-manifest.3f2685b840c91b2ba0008dc1d1efb7a0.js": "/karaoke/precache-manifest.3f2685b840c91b2ba0008dc1d1efb7a0.js",
+    "service-worker.js": "/karaoke/service-worker.js",
+    "static/css/2.c228d923.chunk.css.map": "/karaoke/static/css/2.c228d923.chunk.css.map",
+    "static/css/main.69fd113e.chunk.css.map": "/karaoke/static/css/main.69fd113e.chunk.css.map",
+    "static/js/2.8f80785e.chunk.js.LICENSE.txt": "/karaoke/static/js/2.8f80785e.chunk.js.LICENSE.txt",
+    "static/media/latin.css": "/karaoke/static/media/roboto-latin-900-normal.bb1e4dc6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83250247.js",
+    "static/css/2.c228d923.chunk.css",
+    "static/js/2.8f80785e.chunk.js",
+    "static/css/main.69fd113e.chunk.css",
+    "static/js/main.34847378.chunk.js"
+  ]
+}
